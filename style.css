@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300&display=swap');
+
+#profile-img {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-family: 'Josefin Sans', sans-serif;
+    Justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    color: #fff;
+}
+
+h2 {
+    font-family: 'Josefin Sans', sans-serif;
+    float: left;
+    margin: 0;
+    margin-left: 250px;
+    font-size: 25px;
+    color: #000;
+}
+
+ul {
+    font-family: 'Source Code Pro', monospace;
+    list-style-type: circle;
+    float: left;
+    margin: 0;
+    margin-left: 300px;
+}
+h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    float: left;
+    margin: 0;
+    margin-left: 800px;
+    font-size: 25px;
+    color: #000;
+
+}
+
+table {
+    font-family: 'Source Code Pro', monospace;  
+    float: left;
+    margin: 0;
+    margin-left: 600px;
+    
+}
+
+.about-me {
+    font-family: 'Source Code Pro', monospace;
+
+}
+
+.top-of-page {
+  height: 240px;
+  width: 1500px;
+  background: #C7B198;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.middle-of-page {
+  height: 400px;
+  width: 1500px;
+  background: #DFD3C3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+}
+
+.middle2-of-page {
+  height: 400px;
+  width: 1500px;
+  background: #DFD3C3;
+  display: flex;
+  flex-direction: column;
+  
+
+}
+
+.bottom-of-page {
+  height: 240px;
+  width: 1500px;
+  background: #C7B198;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+
+}
+
+footer {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: small;
+}
